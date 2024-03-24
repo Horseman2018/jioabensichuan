@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         测试脚本
 // @namespace    903741584@qq.com
-// @version      2024-03-24
+// @version      0.2
 // @description  这是一个测试脚本
 // @author       tower
 // @match        *://*
@@ -13,5 +13,5 @@
 (function() {
     'use strict';
 
-    console.log('你好,这是测试脚本')
+    console.log('你好,这是第二次更改测试脚本')
 })();
